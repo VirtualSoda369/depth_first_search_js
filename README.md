@@ -8,7 +8,7 @@
 ### prehistoric worlds 
 ### and was painted by jim nicholds
 
-#### for the full code, see the repo!
+#### for the full code, check the repo!
 
 
 ----
